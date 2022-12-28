@@ -1,5 +1,5 @@
 import { Bars3Icon, GlobeAltIcon, MagnifyingGlassIcon, UserCircleIcon } from '@heroicons/react/24/solid';
-import Image from "next/image";
+import Image from 'next/image';
 const Header = () => {
   return (
     
@@ -7,7 +7,7 @@ const Header = () => {
        
         {/* left  */}
         <div className="relative flex items-center h-20 cursor-pointer">
-            <Image src="https://links.papareact.com/qd3" width={200} height={200}  />
+            <Image src="https://i.ibb.co/myv7kcn/faradise-logo.png" width={250} height={250}  />
         </div>
 
         {/* middle  */}
